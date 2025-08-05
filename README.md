@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://www.python.org/downloads/release/python-310/"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python version"></a>
+  <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+  <a href="https://github.com/Timarmand65/ClauseFrame/actions"><img src="https://github.com/Timarmand65/ClauseFrame/workflows/Run%20Validator%20Tests/badge.svg" alt="Build Status"></a>
+</p>
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
