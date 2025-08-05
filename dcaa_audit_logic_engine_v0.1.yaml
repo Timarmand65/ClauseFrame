@@ -1,0 +1,5 @@
+rules:
+  - trigger: "marketing cost"
+    response: "Disallow: Marketing costs are unallowable."
+  - trigger: "entered after deadline"
+    response: "Flag: Late time entry detected."

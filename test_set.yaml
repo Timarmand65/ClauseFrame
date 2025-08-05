@@ -1,0 +1,5 @@
+tests:
+  - input: "Employee claimed marketing cost"
+    expected: "Disallow: Marketing costs are unallowable."
+  - input: "Hours were entered after deadline"
+    expected: "Flag: Late time entry detected."
